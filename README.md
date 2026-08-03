@@ -1,7 +1,7 @@
 # Jetpack Joyride HACKED BY BUNS
 
 <p align="center">
-  <img src="assets/icon.png" alt="Jetpack Joyride HACKED BY BUNS" width="220" />
+  <img src="assets/Icon.png" alt="Jetpack Joyride HACKED BY BUNS" width="220" />
 </p>
 
 > **This is NOT the official Jetpack Joyride app.**  
@@ -13,7 +13,7 @@
 ## Download
 
 Get the IPA from the latest **[Release](https://github.com/FaZeBuns/Jetpack-Hacked-By-Buns/releases/latest)**  
-File: `Jetpack_Hacked_By_Buns.ipa`
+File: `Jetpack_Hacked_By_Buns.ipa` (~309 MB)
 
 ## Features
 
