@@ -1,7 +1,7 @@
 # Jetpack Joyride HACKED BY BUNS
 
 <p align="center">
-  <img src="assets/Icon.png" alt="Jetpack Joyride HACKED BY BUNS" width="220" />
+  <img src="assets/Icon.PNG" alt="Jetpack Joyride HACKED BY BUNS" width="220" />
 </p>
 
 > **This is NOT the official Jetpack Joyride app.**  
